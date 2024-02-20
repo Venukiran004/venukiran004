@@ -10,14 +10,14 @@ Throughout my career, I have successfully contributed to diverse projects, showc
 🚀Core Competencies:
 Data Analytics II Data Science || Machine Learning || NLP OCR || LLM's || Deep Learning || Devops
 
-🛠️Technical Expertise:<br><br>
-Programming languages : Python, R, HTML, CSS, C++, and C<br><br>
-Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.<br><br>
-Framework: Flask <br><br>
-Tools: Jupyter, Spyder, Visual Studio Code, R Studio, Tableau, Jira, Git, Bitbucket, Source Tree<br><br>
-Database: SQL<br><br>
-Cloud Platforms :Heroku and AWS<br><br>
-Devops Tools: Docker, Kubernetes, Minikube, Jenkins, CI/CD Pipeline<br><br>
+🛠️Technical Expertise:<br>
+Programming languages : Python, R, HTML, CSS, C++, and C<br>
+Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.<br>
+Framework: Flask <br>
+Tools: Jupyter, Spyder, Visual Studio Code, R Studio, Tableau, Jira, Git, Bitbucket, Source Tree<br>
+Database: SQL<br>
+Cloud Platforms :Heroku and AWS<br>
+Devops Tools: Docker, Kubernetes, Minikube, Jenkins, CI/CD Pipeline<br>
 
 🌱 I’m currently learning GenAI<br><br>💬 Ask me about Data Science, Machine Learning<br><br>📫 How to reach me venukiran.sankar@gmail.com
 
