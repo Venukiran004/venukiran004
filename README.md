@@ -3,10 +3,21 @@
 📊 Welcome to my profile!
 I'm delighted to have you here. Let me provide you with a glimpse into my background and expertise.
 
-👩‍💻 About Me
-With over 4.6 years of industry experience as a Software Engineer, I specialize in developing highly scalable applications and services in the field of Data Science and Machine Learning/Deep Learning.
+👩‍💻 With over 4.6 years of industry experience as a Software Engineer, I specialize in developing highly scalable applications and services in the field of Data Science and Machine Learning/Deep Learning.
 
 Throughout my career, I have successfully contributed to diverse projects, showcasing my proficiency in understanding and analyzing data across various domains. I possess a strong aptitude for visualizing data, constructing best-fit models, and providing valuable insights to address complex business problems.
+
+🚀Core Competencies:
+Data Analytics II Data Science || Machine Learning || NLP OCR || LLM's || Deep Learning || Devops
+
+🛠️Technical Expertise:
+Programming languages : Python, R, HTML, CSS, C++, and C
+Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.
+Framework: Flask 
+Tools: Jupyter, Spyder, Visual Studio Code, R Studio, Tableau, Jira, Git, Bitbucket, Source Tree
+Database: SQL
+Cloud Platforms :Heroku and AWS
+Devops Tools: Docker, Kubernetes, Minikube, Jenkins, CI/CD Pipeline
 
 🌱 I’m currently learning GenAI<br><br>💬 Ask me about Data Science, Machine Learning<br><br>📫 How to reach me venukiran.sankar@gmail.com
 
