@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm VENUKIRAN SANKAR</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venukiran004" alt="venukiran004" /></a> </p>
+📊 Welcome to my profile! I'm delighted to have you here. Let me provide you with a glimpse into my background and expertise.
+
+👩‍💻 With over 4.6 years of industry experience as a Software Engineer, I specialize in developing highly scalable applications and services in the field of Data Science and Machine Learning/Deep Learning.
+
+Throughout my career, I have successfully contributed to diverse projects, showcasing my proficiency in understanding and analyzing data across various domains. I possess a strong aptitude for visualizing data, constructing best-fit models, and providing valuable insights to address complex business problems.
+
+🚀Core Competencies: Data Analytics II Data Science || Machine Learning || NLP OCR || LLM's || Deep Learning || Devops
+
+🛠️Technical Expertise:<br>
+Programming languages : Python, R, HTML, CSS, C++, and C<br> 
+Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.<br>
+Framework: Flask<br> 
+Tools: Jupyter, Spyder, Visual Studio Code, R Studio, Tableau, Jira, Git, Bitbucket, Source Tree <br>
+Database: SQL<br> 
+Cloud Platforms :Heroku and AWS<br>
+Devops Tools: Docker, Kubernetes, Minikube, Jenkins, CI/CD Pipeline
 
 - 🌱 I’m currently learning **GenAI**
 
