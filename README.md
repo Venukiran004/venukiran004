@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapercave.com/wp/wp10207949.jpg)]
 # 💫 About Me:
-🌱 I’m currently learning MLOPS<br><br>💬 Ask me about Data Science, Machine Learning<br><br>📫 How to reach me venukiran.sankar@gmail.com
+🌱 I’m currently learning GenAI<br><br>💬 Ask me about Data Science, Machine Learning<br><br>📫 How to reach me venukiran.sankar@gmail.com
 
 
 # 💻 Tech Stack:
